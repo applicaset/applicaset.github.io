@@ -1,0 +1,10 @@
+<svg version="1.1" baseProfile="full" width="456" height="112" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="cut-off-right">
+        <rect x="0" y="0" width="312" height="112"/>
+    </clipPath>
+
+    <rect x="0" y="0" width="456" height="112" fill="#008B8B" rx="32"/>
+    <rect x="8" y="8" width="444" height="96" fill="#111111" rx="26" clip-path="url(#cut-off-right)"/>
+    <text x="16" y="80" font-size="80" fill="#FFFFFF" font-weight="bold" font-family="Arial">Applica</text>
+    <text x="316" y="80" font-size="80" fill="#111111" font-weight="bold" font-family="Arial">Set</text>
+</svg>
