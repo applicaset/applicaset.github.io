@@ -28,6 +28,7 @@ module.exports = {
             {text: 'Contribution', link: '/contribution/'},
         ],
         searchPlaceholder: 'Search...',
+        lastUpdated: true,
         repo: 'applicaset/applicaset.github.io',
         docsDir: 'docs',
         editLinks: true,
