@@ -35,13 +35,6 @@ module.exports = {
         smoothScroll: true
     },
     plugins: [
-        ['@vuepress/active-header-links'],
-        ['@vuepress/back-to-top'],
-        [
-            '@vuepress/google-analytics',
-            {
-                'ga': 'G-9G9DP496EQ'
-            }
-        ]
+        ['@vuepress/back-to-top']
     ]
 }
