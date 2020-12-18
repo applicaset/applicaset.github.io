@@ -29,6 +29,7 @@ OTP Service is responsible for sending and verifying otp to phone numbers.
 [GitHub](https://github.com/applicaset/otp-svc)
 
 * Requires OTP Repository
+    * [Redis Implementation](https://github.com/applicaset/otp-repo-redis)
 * Requires SMS Service
 
 ## SMS Service
