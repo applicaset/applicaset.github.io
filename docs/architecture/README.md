@@ -2,6 +2,8 @@
 sidebar: auto
 ---
 
+# Architecture
+
 We believe in clean architecture.
 
 So, every part of a project should be separated from the other parts.

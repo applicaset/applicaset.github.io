@@ -2,6 +2,8 @@
 sidebar: auto
 ---
 
+# Services
+
 ## Auth Service
 
 Auth Service is responsible for authenticate users and verify their authentication.
