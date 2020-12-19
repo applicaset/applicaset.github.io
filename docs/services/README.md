@@ -40,4 +40,5 @@ SMS Service is responsible for sending message to phone numbers.
 
 [GitHub](https://github.com/applicaset/sms-svc)
 
-- Requires SMS Sender
+- Requires Message Sender
+  - [Twilio Implementation](https://github.com/applicaset/message-sender-twilio)
